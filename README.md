@@ -1,1 +1,1 @@
-# Castle-on-the-Grid-DATA-STRUCTURE-MEDIUM
+# Castle-on-the-Grid-DATA-STRUCTURE-MEDIUM. This BFS solution finds the minimum moves in a grid where you can slide in any direction until hitting an obstacle, treating each continuous slide in one direction as a single move and exploring all possible sliding paths from the start to the goal position.
